@@ -1,3 +1,3 @@
 # hello-world
 the usual welcome
-tadaaaaa! 
+and now the news!
